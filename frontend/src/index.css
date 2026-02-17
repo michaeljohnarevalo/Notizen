@@ -1,0 +1,7 @@
+/*@import "tailwindcss";
+@plugin "daisyui"{
+    themes: forest,coffee;
+};*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
